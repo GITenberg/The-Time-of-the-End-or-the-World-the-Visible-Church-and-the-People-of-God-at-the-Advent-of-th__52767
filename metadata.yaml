@@ -1,5 +1,8 @@
 _repo: The-Time-of-the-End-or-the-World-the-Visible-Church-and-the-People-of-God-at-the-Advent-of-th__52767
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hoare, Edward
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '39940'
     url: http://www.gutenberg.org/2009/agents/39940
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52767#The-Time-of-the-End-or-the-World-the-Visible-Church-and-the-People-of-God-at-the-Advent-of-th_
 gutenberg_issued: '2016-08-10'
 gutenberg_type: Text
 identifiers:
